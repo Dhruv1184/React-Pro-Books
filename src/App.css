@@ -1,0 +1,13 @@
+.div{
+    padding: 2vh;
+}
+.div2{
+  display: flex;
+  gap: 2vw;
+}
+.author{
+  display: flex;
+  gap: 1vw;
+  margin-top: 2vh;
+  font-size: 3vh;
+}
